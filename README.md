@@ -1,2 +1,3 @@
-Hi~/n
+Hi~
+
 This is a test repositorie for DevOps Class.
