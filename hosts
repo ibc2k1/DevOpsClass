@@ -1,3 +1,7 @@
 192.168.21.138 linuxsrv1.lmk.com
 192.168.21.140 linuxsrv.lmk.com
+<<<<<<< HEAD
 192.168.21.0/24
+=======
+192.168.21.141 win2022
+>>>>>>> refs/remotes/origin/main
